@@ -1,4 +1,4 @@
-# hub-docs
+hub-docs
 
 This repository regroups documentation and information that is hosted on the Hugging Face website.
 
